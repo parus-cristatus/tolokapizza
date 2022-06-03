@@ -1,5 +1,5 @@
 # tolokapizza
-Toloka RESTful API and Toloka Kit snippets
+Toloka API and Toloka Kit snippets
 
 Toloka Kit docs: https://toloka.ai/en/docs/toloka-kit/
 
