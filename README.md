@@ -5,7 +5,7 @@ Toloka Kit docs: https://toloka.ai/en/docs/toloka-kit/
 
 Toloka API: https://toloka.ai/docs/api/
 
-All snippets are implemented in Google Colab. It's just a playground for custom logic scripts.
+All snippets are implemented in Google Colab. It's just a playground for custom logic scripts.  Only god knows how they'll work 🙂
 
 tolokaapi/ folder includes snippets implemented with the help of requests and json modules:
 
