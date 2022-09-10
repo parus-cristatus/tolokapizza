@@ -20,3 +20,4 @@ tolokakit/ folder - with the help of Toloka Kit lib
 - Write aggregation results to a TSV file (async)
 - Download attachments together with input data
 - Upload tasks to a pool
+- Save accepted assignments from pool to tsv file
