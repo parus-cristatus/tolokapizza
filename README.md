@@ -12,6 +12,7 @@ tolokaapi/ folder includes snippets implemented with the help of requests and js
 - GET exif data from photos and check the location on Google maps
 - GET attachments from data collection project and send them to Cloud storage to get direct links for the verification project
 - POST bonuses to a group of users. The amount depends on the quantity of submitted assignments
+- GET all assignments from pool and save them to json file (with length parameter)
 
 tolokakit/ folder - with the help of Toloka Kit lib
 
