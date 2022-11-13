@@ -23,3 +23,4 @@ tolokakit/ folder - with the help of Toloka Kit lib
 - Upload tasks to a pool
 - Save accepted assignments from pool to tsv file
 - Accepted assignments observer with log file
+- Crop images from accepted assignments by bboxes
