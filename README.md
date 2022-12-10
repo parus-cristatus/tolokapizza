@@ -13,6 +13,7 @@ tolokaapi/ folder includes snippets implemented with the help of requests and js
 - GET attachments from data collection project and send them to Cloud storage to get direct links for the verification project
 - POST bonuses to a group of users. The amount depends on the quantity of submitted assignments
 - GET all assignments from pool and save them to json file (with length parameter)
+- POST general tasks to a production pool (with aiohttp)
 
 tolokakit/ folder - with the help of Toloka Kit lib
 
