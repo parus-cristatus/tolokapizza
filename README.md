@@ -1,7 +1,7 @@
 # tolokapizza
 Toloka API and Toloka Kit snippets
 
-Toloka Kit docs: https://toloka.ai/en/docs/toloka-kit/
+Toloka Kit Docs: https://toloka.ai/en/docs/toloka-kit/
 
 Toloka API: https://toloka.ai/docs/api/
 
@@ -15,6 +15,7 @@ tolokaapi/ folder includes snippets implemented with the help of requests and js
 - GET all assignments from pool and save them to json file (with length parameter)
 - POST general tasks to a production pool (with aiohttp)
 - GET assignments without the ones from banned/suspended performers
+- Transfer a project with pools (both regular and trainings) to another account (prod to prod)
 
 tolokakit/ folder - with the help of Toloka Kit lib
 
